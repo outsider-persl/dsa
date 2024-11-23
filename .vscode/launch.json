@@ -11,8 +11,8 @@
             "program": "${workspaceFolder}/target/${fileBasenameNoExtension}",
             "args": [],
             "cwd": "${workspaceFolder}",
-            "terminal": "integrated",
-            "preLaunchTask": "C/C++: clang++ build active file"
+            "preLaunchTask": "C/C++: clang++ active file",
         }
+
     ]
 }

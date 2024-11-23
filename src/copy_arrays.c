@@ -10,7 +10,7 @@ int* copy(int* source, int start, int end) {
 
     int index = 0;
     for (int i = start; i < end; i++) {
-        target[index++] = source[i];  // 复制元素
+        target[index++] = source[i];  // 复制元素˜
     }
     return target;  // 返回新数组
 }
