@@ -10,9 +10,7 @@
             "name": "Launch",
             "program": "${workspaceFolder}/target/${fileBasenameNoExtension}",
             "args": [],
-            "cwd": "${workspaceFolder}",
-            "preLaunchTask": "C/C++: clang++ active file",
-        }
-
+            "cwd": "${workspaceFolder}"
+        },
     ]
 }
